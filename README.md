@@ -21,3 +21,5 @@ http://10.145.89.1:9200/
   },
   "tagline" : "You Know, for Search"
 }
+
+docker-elasticsearch   latest              1fc33f21bfae        2 minutes ago       123MB
